@@ -16,7 +16,6 @@ The **Employee Management System** is a console-based application built using **
 - **Update Employee**: Update an existing employee's details (e.g., name, age, department, salary).
 - **Delete Employee**: Delete an employee record by ID.
 - **Search Employee**: Search for an employee by their ID.
-- **Input Validation**: Validate user inputs to ensure data integrity.
 - **Menu-Driven Interface**: Easy-to-use console-based menu for seamless navigation.
 
 ---
@@ -83,7 +82,7 @@ For any questions or feedback, feel free to reach out:
 
 - **Your Name** : Amar Dole 
 - **Email**: amardole7576@gmail.com  
-- **GitHub**: [your-username](https://github.com/Amardole)
+- **GitHub**: [Amardole](https://github.com/Amardole)
 
 ---
 
