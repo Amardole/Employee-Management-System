@@ -17,8 +17,8 @@ The **Employee Management System** is a console-based application built using **
 - **Delete Employee**: Delete an employee record by ID.
 - **Search Employee**: Search for an employee by their ID.
 - **Menu-Driven Interface**: Easy-to-use console-based menu for seamless navigation.
-- **Use Collectios For retrive all employee list.
-- **use multithreading for inserting employee.
+- Use Collectios For retrive all employee list.
+- use multithreading for inserting employee.
 
 ---
 
