@@ -134,9 +134,9 @@ public class MainClass {
             if (employees.isEmpty()) {
                 System.out.println("\n No employees found.");
             } else {
-            	for (Employee employee : employees) {
-            	    System.out.println(employee);
-            	}
+            	for (int i = 0; i < employees.size(); i++) {
+                      System.out.println(employees.get(i).toString());
+                 }
             }
         } catch (SQLException e) {
             e.printStackTrace();
