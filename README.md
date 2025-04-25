@@ -51,7 +51,7 @@ Before running the project, ensure you have the following installed:
 1. **Java Development Kit (JDK) 17 or higher**.
 2. **Apache Maven 3.8.6 or higher**.
 3. **PostgreSQL 15 or higher**.
-4. A PostgreSQL database with the following table:
+4. create PostgreSQL database with the following table:
    ```sql
    CREATE TABLE employees (
        id SERIAL PRIMARY KEY,
